@@ -22,3 +22,6 @@
 *NST is computationally intensive because it involves optimizing the image pixels directly through multiple iterations. To address this, researchers later developed fast style transfer techniques using feed-forward networks trained specifically to apply a particular style in real-time.*
 
 *In summary, Neural Style Transfer is a creative application of CNNs that blends the visual features of two images, producing artwork-like results. It has influenced fields such as digital art, augmented reality, and photo editing, showing the power of neural networks beyond traditional classification tasks.*
+
+*Output*:
+![Image](https://github.com/user-attachments/assets/228735ac-a785-42d4-b11f-5a8706a8f3e5)
